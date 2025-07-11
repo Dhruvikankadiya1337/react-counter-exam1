@@ -1,6 +1,6 @@
 <h1 align="center">🔢 Counter 2.0</h1>
 <p align="center">
-  A clean and interactive React counter app that checks for <b>Even/Odd</b> and <b>Prime</b> numbers — built with 💖 using React Hooks.
+  A clean and interactive React counter app that checks for <b>Even/Odd</b> and <b>Prime</b> numbers — built with  using React Hooks.
 </p>
 
 ---
